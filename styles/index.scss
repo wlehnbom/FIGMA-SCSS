@@ -1,0 +1,13 @@
+@import '_nav.scss';
+@import '_main.scss';
+@import '_footer.scss';
+@import 'fonts.scss';
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
