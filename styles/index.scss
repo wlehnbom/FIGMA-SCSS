@@ -1,7 +1,8 @@
 @import '_nav.scss';
 @import '_main.scss';
 @import '_footer.scss';
-@import 'fonts.scss';
+@import '_fonts.scss';
+@import '_project.scss';
 
 body {
     display: flex;
@@ -9,5 +10,4 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0 6em 0 6em;
-    height: 100%;
 }
