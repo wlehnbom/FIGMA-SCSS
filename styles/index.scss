@@ -3,6 +3,7 @@
 @import '_footer.scss';
 @import '_fonts.scss';
 @import '_project.scss';
+@import '_contact.scss';
 
 body {
     display: flex;
@@ -10,4 +11,11 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0 6em 0 6em;
+    width: 100%;
+    font-family: 'Mulish', sans-serif;
+}
+
+html {
+    display: flex;
+    justify-content: center;
 }
